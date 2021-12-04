@@ -6,6 +6,15 @@ The objective of this react web application is to simply string together  "chess
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
+# How to install
+pre rquisite:
+ - install yarn.
+ - make sure that you are using latest node version. 
+install: 
+- run `git clone https://github.com/NahlaEssam/Chess.git`
+- navigate to Chess folder.
+- run `yarn` to install node modules.
+
 # How to run
 In the project directory, you can run `yarn start`. and open your browser 
 http://localhost:3000/
