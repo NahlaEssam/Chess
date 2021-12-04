@@ -9,13 +9,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![alt text](https://raw.githubusercontent.com/NahlaEssam/Chess/main/src/assets/screenshots/ChessBorad.png)
 
 # How to install
-pre rquisite:
- - install yarn.
- - make sure that you are using latest node version. 
-install: 
-- run `git clone https://github.com/NahlaEssam/Chess.git`
-- navigate to Chess folder.
-- run `yarn` to install node modules.
+  ## pre rquisite:
+    - install yarn.
+    - make sure that you are using latest node version. 
+  ## install: 
+    - run `git clone https://github.com/NahlaEssam/Chess.git`
+    - navigate to Chess folder.
+    - run `yarn` to install node modules.
 
 # How to run
 In the project directory, you can run `yarn start`. and open your browser 
