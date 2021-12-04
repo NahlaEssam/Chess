@@ -6,7 +6,7 @@ The objective of this react web application is to simply string together  "chess
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
-![alt text] (https://raw.githubusercontent.com/NahlaEssam/Chess/main/src/assets/screenshots/ChessBorad.png)
+![alt text](https://raw.githubusercontent.com/NahlaEssam/Chess/main/src/assets/screenshots/ChessBorad.png)
 
 # How to install
 pre rquisite:
