@@ -1,0 +1,37 @@
+.chess-holder {
+  padding: 1rem;
+  background-image: url(../assets/img/background.png);
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+
+.chess-board-container {
+  display: flex;
+  justify-content: center;
+}
+
+.chess-board-status {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.game-state {
+  font-weight: normal;
+  margin-left: 0.4rem;
+  text-transform: capitalize;
+}
+
+.status-content {
+  background-color: white;
+  height: 3rem;
+  align-items: center;
+  display: flex;
+  border-radius: 1rem;
+  padding: 0.6rem;
+  min-width: 12rem;
+  box-shadow: lightgrey -3px 4px 9px 0px;
+  font-weight: bold;
+}
